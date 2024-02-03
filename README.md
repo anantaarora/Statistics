@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on **a research project**
 
-- 🌱 I’m currently learning **android development and big data tools.**
+- 🌱 I’m currently learning **big data tools.**
 
 - 📫 How to reach me **anantaarora71@gmail.com**
 
