@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on **a research project**
 
-- 🌱 I’m currently advancing in **big data tools and GenAI **
+- 🌱 I’m currently advancing in **big data tools and GenAI**
 
 - 📫 How to reach me **anantaarora71@gmail.com**
 
