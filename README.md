@@ -1,10 +1,6 @@
-- 🔭 I’m currently working on **a research project**
+Hey there!
 
-- 🌱 I’m currently advancing in **big data tools and GenAI**
+So, you know how statistics is like the backbone of machine learning, right? It's like the secret sauce that helps us understand the connections between different variables. Well, I've put together this neat little collection of examples using various datasets. Each example follows a similar flow, but I've mixed it up with different statistical tests for each one. The idea is to make it easier for us to interpret what's going on.
 
-- 📫 How to reach me **anantaarora71@gmail.com**
+Hope you enjoy diving into these examples and happy learning!
 
-<p align="center">
-<a href="https://linkedin.com/in/ananta arora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ananta arora" height="30" width="30" /></a>
-<a href="https://medium.com/@ananta arora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ananta arora" height="30" width="30" /></a>
-</p>
